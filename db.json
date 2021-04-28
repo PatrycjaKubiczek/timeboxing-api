@@ -1,25 +1,28 @@
 {
-  "timeboxes": [
+  "users": [
     {
-      "id": 1,
-      "title": "uczę się list",
-      "totalTimeInMinutes": 25,
-      "isEdited": false
+      "email": "janina@test.pl",
+      "password": "$2a$10$Dut2F6nzxo/U30jEJF9yQ..6VGwNff7VD/RVJ4.DYcANwr2kCNLxq",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "uczę się formularzy",
+      "email": "grazynka@test.pl",
+      "password": "$2a$10$RT2zNsgawp9sf60HdUdT0u0J9eCCgvrh13PfODqNMlvdxPznA0tP.",
+      "id": 2
+    }
+  ],
+  "timeboxes": [
+    {
+      "title": "uczę się formularzyy",
       "totalTimeInMinutes": 15,
-      "isEdited": false
+      "isEdited": false,
+      "id": 2
     },
     {
       "id": 3,
       "title": "uczę się komponentów",
       "totalTimeInMinutes": 5,
       "isEdited": false
-    },
-    {
-      "id": 5
     },
     {
       "title": "aaaa",
@@ -32,6 +35,24 @@
       "totalTimeInMinutes": "123",
       "isEdited": false,
       "id": 7
+    },
+    {
+      "title": "test",
+      "totalTimeInMinutes": "10",
+      "isEdited": false,
+      "id": 8
+    },
+    {
+      "title": "aaaa",
+      "totalTimeInMinutes": "1111",
+      "isEdited": false,
+      "id": 9
+    },
+    {
+      "title": "aaabbbb",
+      "totalTimeInMinutes": "123",
+      "isEdited": false,
+      "id": 10
     }
   ]
 }
